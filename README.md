@@ -13,7 +13,9 @@ The CFND dataset can be downloaded from this [link](https://drive.google.com/fil
 @article{NLIN,
   title={Natural Language-centered Inference Network for Multi-modal Fake News Detection},
   author={Zhang, Qiang and Liu, Jiawei and Zhang, Fanrui and Xie, Jingyi and Zha, Zheng-Jun},
-  booktitle = {IJCAI},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  pages= {2542--2550},
   year = {2024}
 }
 ```
