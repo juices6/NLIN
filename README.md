@@ -1,2 +1,2 @@
 # Natural Language-centered Inference Network for Multi-modal Fake News Detection
-We will make the release of the source code and the CFND dataset as soon as possible!
+The CFND dataset can be downloaded from this [link]([https://markdown.com.cn](https://drive.google.com/file/d/1upiqVnGiJFI-cxrzLkWHePuIuJCxUkxT/view?usp=drive_link)).
