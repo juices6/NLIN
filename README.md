@@ -2,7 +2,7 @@
 
 ## 📜 News
 
-The CFND dataset can be downloaded from this [link](https://drive.google.com/file/d/1upiqVnGiJFI-cxrzLkWHePuIuJCxUkxT/view?usp=drive_link).
+The CFND dataset can be downloaded from this [link](https://drive.google.com/file/d/1J4rcWcVavTY5GGw29ZBr17bdjyBmTHpE/view?usp=drive_link).
 
 
  ## ✒️ Citation
